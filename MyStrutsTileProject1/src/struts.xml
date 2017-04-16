@@ -20,7 +20,11 @@
 		</action>  
 
 		<action name="showUserList" class="com.myproject.mymodule.MyActionClass" method="userListPrint">  
+<<<<<<< HEAD
 			<result name="SUCCESS" type="tiles">userlist</result>  
+=======
+			<result name="SUCCESS" type="tiles">login</result>  
+>>>>>>> refs/remotes/origin/master
 		</action>  
 
 
